@@ -1,0 +1,37 @@
+#know-more-btn{
+	text-align: center;
+	border: 3px solid #91D4B6;
+	background: none;
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	transition: 0.5s;
+}
+
+#know-more-btn:hover{
+	color: #00203FFF;
+	background: #91D4B6;
+	border: 3px solid #91D4B6;
+	transition: 0.5s;
+}
+
+#get-in-touch-btn{
+	text-align: center;
+	border: 3px solid #91D4B6;
+	background: #91D4B6;
+	padding: 10px;
+	font-size: 15px;
+	color: #00203FFF;
+	transition: 0.5s;
+}
+
+#get-in-touch-btn:hover{
+	color: white;
+	background: none;
+	border: 3px solid #91D4B6;
+	transition: 0.5s;
+}
+
+#main-col{
+	line-height: 140%;
+}
